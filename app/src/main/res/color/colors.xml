@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <color android:name="black">#000000</color>
+    <color android:name="white">#FFFFFF</color>
+    <color android:name="yellow1">#F9E60E</color>
+    <color android:name="yellow2">#F9F89D</color>
+    <color android:name="orange1">#F59330</color>
+    <color android:name="orange2">#F7D896</color>
+    <color android:name="blue1">#68B3AF</color>
+    <color android:name="blue2">#92d2ce</color>
+    <color android:name="red1">#ff0303</color>
+    <color android:name="red2">#ff3030</color>
+    <color android:name="green1">#00ff00</color>
+    <color android:name="green2">#60f360</color>
+    <color android:name="grey">#ACA899</color>
+    <color android:name="white1">#FFFFFF</color>
+    <color android:name="white2">#DDDDDD</color>
+    <color android:name="dark_green">#0A9153</color>
+    <color android:name="dark_blue">#1b212b</color>
+    <color android:name="silver1">#C0C0C0</color>
+    <color android:name="silver2">#F1F1F4</color>
+    <color android:name="logo_red">#df271e</color>
+</selector>

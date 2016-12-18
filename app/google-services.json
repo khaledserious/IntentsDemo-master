@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "298953291154",
+    "firebase_url": "https://multi-trivia.firebaseio.com",
+    "project_id": "multi-trivia",
+    "storage_bucket": "multi-trivia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298953291154:android:16b8b8edb80aa9d7",
+        "android_client_info": {
+          "package_name": "college.edu.tomer.intentsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298953291154-a2bhruph3f0r811996k39ikt53svh3oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "college.edu.tomer.intentsdemo",
+            "certificate_hash": "0F232B164571B08067949FB865B8E36165D010FA"
+          }
+        },
+        {
+          "client_id": "298953291154-v5da34d6uj54mebgm91q1347j5gt649t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1MXJibrhTPM8QqonfzolIm8EgY-CX72w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298953291154-v5da34d6uj54mebgm91q1347j5gt649t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
